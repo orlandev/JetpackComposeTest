@@ -18,6 +18,7 @@ import com.google.accompanist.flowlayout.SizeMode
 /*
   Testing Nested Scroll between two components that have the same scroll direction
 
+https://medium.com/bazaar-tech/nested-lazyverticalgrid-with-jetpack-compose-f50d1a8f7e6e
  */
 
 @Composable
