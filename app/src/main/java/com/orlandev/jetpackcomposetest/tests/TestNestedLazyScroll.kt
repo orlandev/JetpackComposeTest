@@ -15,6 +15,10 @@ import com.google.accompanist.flowlayout.FlowMainAxisAlignment
 import com.google.accompanist.flowlayout.FlowRow
 import com.google.accompanist.flowlayout.SizeMode
 
+/*
+  Testing Nested Scroll between two components that have the same scroll direction
+
+ */
 
 @Composable
 fun TestNestedLazyScroll() {
